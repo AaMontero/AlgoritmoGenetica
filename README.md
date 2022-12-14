@@ -1,0 +1,2 @@
+# genetica_am
+ EjercicioGenetica
